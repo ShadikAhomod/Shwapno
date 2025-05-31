@@ -185,3 +185,14 @@ nav a:hover{
 .chat:hover{
 	color:teal;
 }
+footer{
+	background:coral;
+	text-align:center;
+	color:snow;	
+}
+footer i{
+	color:green;
+	font-size:30px;
+	gap:3rem;
+	padding:2rem 1rem ;
+}
